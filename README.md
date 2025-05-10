@@ -23,7 +23,7 @@
 
 ![image](https://github.com/user-attachments/assets/7fde38d7-202b-46f2-b4ac-bc0f70cc4531)
 
-然后将跳转到`替代文件夹\web.fanbook.cn\assets`
+然后将打开`替代文件夹\web.fanbook.cn\assets`
 
 然后下载存储库(code->download zip),打开压缩包,进入`\fanbook-web-free-function-main\web.fanbook.cn\assets`,替换掉替代目录中的文件即可  
 
