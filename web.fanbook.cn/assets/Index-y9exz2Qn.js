@@ -228236,7 +228236,7 @@ const hBn = ({
       }, [o]);
       function S(e) {
         e.uid = yR();
-        e.size / 1024 < f
+        true
           ? ((g.current = e), t || y(e), null == n || n(e, m.current))
           : al.open({ type: "warning", content: `上传图片必须小于${gBn(f)}` });
       }
