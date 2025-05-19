@@ -1,4 +1,7 @@
-// [WDG] 解锁Banner图设置入口、上传时无视文件大小
+// [WDG] 解锁以下功能：
+// Banner图设置入口
+// 上传时无视文件大小
+// 设置角色图标
 // https://github.com/wangdage12/fanbook-web-free-function
 
 const __vite__mapDeps = (
@@ -265648,7 +265651,7 @@ function b5n({ hasPermission: e = !1 }) {
                   valuePropName: "url",
                   children: u.jsx(mBn, {
                     onlyIcon: !0,
-                    disabled: !(e && !o),
+                    // disabled: !(e && !o),
                     useCrop: { title: "编辑身份组图标" },
                     needBorder: !0,
                   }),
